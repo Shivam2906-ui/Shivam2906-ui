@@ -26,7 +26,12 @@
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
 </a>
-
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/api-settings.png" alt="API" width="40" height="40"/>
+</a>
 
 
 </p>
