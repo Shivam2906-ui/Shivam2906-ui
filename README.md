@@ -32,6 +32,21 @@
 <a href="#" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/api-settings.png" alt="API" width="40" height="40"/>
 </a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="Webpack" width="40" height="40"/>
+</a>
+
+<a href="https://parceljs.org/" target="_blank" rel="noreferrer">
+  <img src="https://parceljs.org/assets/parcel@2x.png" alt="Parcel" width="40" height="40"/>
+</a>
+
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/babel/logo/master/babel.png" alt="Babel" width="40" height="40"/>
+</a>
+
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="NPM" width="40" height="40"/>
+</a>
 
 
 </p>
